@@ -37,7 +37,7 @@
     $pdo = new PDO("pgsql:" . sprintf(
       "host=ec2-23-23-92-204.compute-1.amazonaws.com;
 	  port=5432;
-      user=wyzrqnbkiuwncx;
+      user=yzrqnbkiuwncx;
       password=24d31f16b50e6442ad43f27539406f82166b2ae356fcaa9e08dc2bfe2cf1ca4b;
       dbname=dflmee16l6qp3i",
       $db["host"],
